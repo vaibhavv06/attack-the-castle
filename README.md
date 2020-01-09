@@ -1,9 +1,5 @@
-# EvoPawness Game
+# Attack The Castle
 
-Based on the article that I write  
-Part 1: https://towardsdatascience.com/create-your-own-board-game-with-powerful-ai-from-scratch-part-1-5dcb028002b8  
-Part 2: https://towardsdatascience.com/create-ai-for-your-own-board-game-from-scratch-minimax-part-2-517e1c1e3362  
-Part 3: https://towardsdatascience.com/create-ai-for-your-own-board-game-from-scratch-alpha-zero-part-3-f22761372245  
 
 This repository has the documentation almost all of functions. Hope that it will make you understand better.
 
@@ -66,4 +62,4 @@ Q : Can I Contribute? <br>
 A : Of course, just tell me what you want to contribute. <br>
 
 Q : Can I Contact you? <br>
-A : email me in haryomaenan@gmail.com if you want to contact me. Especially about this project.
+A : email me in vaibhavv06@gmail.com if you want to contact me. Especially about this project.
